@@ -1,0 +1,49 @@
+/* Nav */
+/************************************** */
+.body-font h1 {
+  font-size: 1.625rem;
+}
+.header-font {
+  font-family: 'Playfair Display', serif;
+}
+.body-font {
+  font-family: 'Roboto', sans-serif;
+}
+
+/* .navbar .active {
+  border-bottom: 10px solid #eee
+} */
+
+.active-menu-link {
+  background: linear-gradient(0deg, rgba(255,0,255,0) 0%, rgba(255,0,255,0) 16%, rgba(238,238,238) 16%, rgba(238,238,238) 41%, rgba(255,0,255,0) 41%);
+  box-decoration-break: clone;
+  -webkit-box-decoration-break: clone;
+}
+
+/* homepage */
+/************************************** */
+.homepage-inner-container {
+  z-index: 1;
+  margin-top: -25px;
+}
+
+/* buttons */
+/************************************** */
+.btn {
+  border-radius: 0;
+  padding: 9px 36px;
+}
+/* Utilities */
+/************************************** */
+.bg-75 {
+  background-color: #757575
+}
+
+.text-42 {
+  color: #424242
+}
+
+.bg-e {
+  background-color: #eee
+}
+
